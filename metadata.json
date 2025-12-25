@@ -1,0 +1,7 @@
+{
+  "name": "Deutsch LernApp",
+  "description": "An interactive German-Arabic visual dictionary based on ELI Bildwörterbuch. Explore scenes, hear pronunciations, and see translations for over 2,000 terms.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
