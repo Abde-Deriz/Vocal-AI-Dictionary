@@ -22,8 +22,8 @@ export const PRESET_LIBRARIES: LanguageGroup[] = [
     icon: '🇩🇪',
     color: 'bg-green-600',
     documents: [
-      { id: 'de-1', name: 'ELI Bildwörterbuch A1', url: 'https://giftscoupon.com/gr/ELI Bildworterbuch Deutsch_sample.pdf' },
-      { id: 'de-2', name: 'Themen Aktuell 1', url: 'https://giftscoupon.com/gr/German Picture Dictionary.pdf' },
+      { id: 'de-1', name: 'ELI Bildworterbuch Deutsch_sample.pdf', url: 'https://giftscoupon.com/gr/ELI Bildworterbuch Deutsch_sample.pdf' },
+      { id: 'de-2', name: 'German Picture Dictionary.pdf', url: 'https://giftscoupon.com/gr/German Picture Dictionary.pdf' },
     ]
   },
   { 
@@ -33,8 +33,8 @@ export const PRESET_LIBRARIES: LanguageGroup[] = [
     icon: '🇬🇧',
     color: 'bg-blue-600',
     documents: [
-      { id: 'en-1', name: 'Oxford Dictionary', url: 'https://giftscoupon.com/eng/English_for_Everyone_Illustrated_English_Dictionary.pdf' },
-      { id: 'en-2', name: 'Cambridge Grammar', url: 'https://giftscoupon.com/eng/Word_by_Word_Picture_Dictionary_NEW.pdf' }
+      { id: 'en-1', name: 'Illustrated English Dictionary.pdf', url: 'https://giftscoupon.com/eng/English_for_Everyone_Illustrated_English_Dictionary.pdf' },
+      { id: 'en-2', name: 'English Picture Dictionary NEW.pdf', url: 'https://giftscoupon.com/eng/Word_by_Word_Picture_Dictionary_NEW.pdf' }
     ]
   },
   { 
@@ -44,7 +44,7 @@ export const PRESET_LIBRARIES: LanguageGroup[] = [
     icon: '🇫🇷',
     color: 'bg-purple-600',
     documents: [
-      { id: 'fr-1', name: 'Bescherelle Français', url: 'https://giftscoupon.com/fr/Dizionario%20Senior%20Francese_sample.pdf' }
+      { id: 'fr-1', name: 'Dictionnaire anglais illustré.pdf', url: 'https://giftscoupon.com/fr/Dizionario%20Senior%20Francese_sample.pdf' }
     ]
   }
 ];
