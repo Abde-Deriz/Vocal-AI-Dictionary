@@ -22,7 +22,7 @@ export const PRESET_LIBRARIES: LanguageGroup[] = [
     icon: '🇩🇪',
     color: 'bg-green-600',
     documents: [
-      { id: 'de-1', name: 'ELI Bildwörterbuch A1', url: 'https://giftscoupon.com/gr/Dizionario Senior Francese_sample.pdf' },
+      { id: 'de-1', name: 'ELI Bildwörterbuch A1', url: 'https://giftscoupon.com/gr/ELI Bildworterbuch Deutsch_sample.pdf' },
       { id: 'de-2', name: 'Themen Aktuell 1', url: 'https://giftscoupon.com/gr/German Picture Dictionary.pdf' },
     ]
   },
